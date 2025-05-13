@@ -3,4 +3,4 @@
 
 
 warp://p1@auto?ifpm=m4#By Public IP&&detour=warp://p2@auto#🇩🇪 Germany (Hesse,Frankfurt am Main)
-warp://p1@auto?ifpm=m4#By Local IP&&detour=warp://p2@auto#🇩🇪 Germany (Hesse,Frankfurt am Main)
+#warp://p1@auto?ifpm=m4#By Local IP&&detour=warp://p2@auto#🇩🇪 Germany (Hesse,Frankfurt am Main)
