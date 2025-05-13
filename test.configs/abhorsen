@@ -2,5 +2,5 @@
 //subscription-userinfo: upload=1073741800; download=10737418000; total=32212254000; expire=1749827010
 
 
-warp://p1@auto?ifpm=m4#By Public IP&&detour=warp://p2@auto#🇩🇪 Germany (Hesse,Frankfurt am Main)
-#warp://p1@auto?ifpm=m4#By Local IP&&detour=warp://p2@auto#🇩🇪 Germany (Hesse,Frankfurt am Main)
+warp://p1@auto?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#m4&&detour=warp://p2@auto#🇩🇪 Germany (Hesse,Frankfurt am Main)
+warp://p1@auto?ifpm=m4#LocalIP&&detour=warp://p2@auto#🇩🇪 Germany (Hesse,Frankfurt am Main)
