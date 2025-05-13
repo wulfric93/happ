@@ -2,5 +2,4 @@
 //subscription-userinfo: total=32212254000; expire=1749827010
 
 
-warp://p1@188.114.97.170:894?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#M4&&detour=warp://p2@188.114.97.170:894#Detour
-warp://p1@auto?ifpm=m4#LocalIP&&detour=warp://p2@auto#Detour ✅
+warp://auto#Germany 🇩🇪&&detour=warp://auto#Germany 🇩🇪
