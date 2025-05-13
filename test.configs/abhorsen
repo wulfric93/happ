@@ -1,5 +1,5 @@
 //profile-title: base64:8J+SjiBBYmhvcnNlbiDwn5KOIA==
-//subscription-userinfo: upload=0; download=0; total=32212254000; expire=1749827010
+//subscription-userinfo: total=32212254000; expire=1749827010
 
 
 warp://p1@188.114.97.170:894?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#M4&&detour=warp://p2@188.114.97.170:894#Detour
