@@ -1,6 +1,7 @@
-//profile-title: base64:8J+SjiBBYmhvcnNlbiDwn5KOIA==
-//subscription-userinfo: total=32212254000; expire=1749827010
+//profile-title: base64:8J+SjiBBYmhvcnNlbiDwn5KOIEdlcm1hbnkg8J+HqfCfh6o=
+//profile-update-interval: 24
 //subscription-userinfo: upload=0; download=0; total=32212254000; expire=1749827010
 
 
-warp://auto#Germany 🇩🇪&&detour=warp://auto#Germany 🇩🇪
+warp://p1@auto?ifpm=m4#m4&&detour=warp://p2@auto#warp in warp
+warp://p1@auto?ifpm=m4#LocalIP&&detour=warp://p2@auto#WarpInWarp✅
