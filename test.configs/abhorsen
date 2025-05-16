@@ -3,5 +3,5 @@
 //subscription-userinfo: upload=0; download=0; total=5368709000000; expire=1767225600
 
 
-warp://p1@188.114.97.170:894?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#m4&&detour=warp://p2@188.114.97.170:894#Germany
-warp://p1@auto?ifpm=m4#LocalIP&&detour=warp://p2@auto#Germany✅
+warp://auto?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#m4&&detour=warp://auto#Germany
+warp://auto?ifpm=m4#LocalIP&&detour=warp://auto#Germany✅
