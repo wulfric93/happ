@@ -1,6 +1,6 @@
 //profile-title: base64:8J+UpSBBYmhvcnNlbiDwn5Sl
 //profile-update-interval: 24
-//subscription-userinfo: upload=0; download=0; total=5368709000000; expire=1767225600
+//subscription-userinfo: upload=0; download=0; total=5368709000000; expire=1750099889
 
 
 warp://auto?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#m4&&detour=warp://auto#Germany
